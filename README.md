@@ -1,4 +1,4 @@
-<img src="IMG_0038.jpeg">
+<img src="IMG_0037.webp">
 <p align="center">
   <img src="IMG_0040.png" alt="Project Logo" width="200">
 </p>
@@ -56,6 +56,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div><br>
 <h1><i>Turing coffee into code since 2023</i></h1>
+<img src="IMG_0041.jpeg">
+<p align="center">
+</p>
 
 
 
