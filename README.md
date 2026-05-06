@@ -40,22 +40,8 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
+<div>
   <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/lowlighter-max/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lowlighter-max's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=lowlighter-max&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-
-  <div align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-      <img src="https://streak-stats.demolab.com/?user=matrix278&theme=dark" alt="Streak Stats" />
-    </a>
-</div>
-
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lowlighter-max&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=
@@ -63,6 +49,19 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lowlighter-max&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lowlighter-max&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lowlighter-max&theme=radical&utcOffset=8">
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div><br>
+<h1><i>Turing coffee into code since 2023</i></h1>
+
+
+
+
+
+
 
 
 
