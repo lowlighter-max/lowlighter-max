@@ -1,8 +1,8 @@
 <img src="IMG_0037.webp">
-<p align="center">
+<p align="left">
   <img src="IMG_0040.png" alt="Project Logo" width="200">
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
