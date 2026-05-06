@@ -56,7 +56,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div><br>
 <h1><i>Turing coffee into code since 2023</i></h1>
-<img src="IMG_0041.jpeg">
+<img src="IMG_0042.png">
 <p align="center">
 </p>
 
